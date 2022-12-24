@@ -13,15 +13,15 @@ function CartSummary({ total }) {
         key_secret: "0wVxMg5kGzT0eJyDdjR9FLdi",
         amount: total * 100,
         currency: "INR",
-        name: "Shopp.my",
+        name: "JustWatches",
         description: "for testing purpose",
         handler: function (response) {
           alert(response.razorpay_payment_id);
         },
         prefill: {
-          name: "midhun",
-          email: "midhunkumarengineer98@gmail.com",
-          contact: "9025176928"
+          name: "",
+          email: "kirubaharan8878m@gmail.com",
+          contact: "8489671064"
         },
         notes: {
           address: "Razorpay Corporate office"
