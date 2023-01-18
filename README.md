@@ -1,8 +1,5 @@
 <h2>E-COMMERCE JUST WATCHES MERN APP</h2>
 
-<h4>Preview Slides of Our E-COMMERCE JUST WATCHES MERN APP </h4>
-
-<h1>Welcome Makkaleee....!<h1/>
 <h3>Feel Free Check Our E-COMMERCE JUST WATCHES MERN APP with Razorpay</h3>
 <a href="https://just-watches.netlify.app">Click Me<a/>
 <br/>
